@@ -7,7 +7,7 @@ import Footer from "./components/footer";
 
 const App = () => (
   <>
-    <h1>App remote</h1>
+    <h1>App remote 131212</h1>
     <Header />
     <Footer />
   </>
